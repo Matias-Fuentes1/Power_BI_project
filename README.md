@@ -49,6 +49,7 @@ Frecuencia de productos que se compran juntos
 Ventas totales por producto y su porcentaje de rentabilidad.
 
 
+
 * Hallazgos obtenidos;
 
 Para crecer en clientes/ventas:
