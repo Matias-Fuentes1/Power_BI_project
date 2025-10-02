@@ -1,6 +1,5 @@
-# Power_BI_project
-
 # Análisis de Ventas y Operaciones en Whiskique
+
 Proyecto basado en el analisis general de la empresa Whiskique, una empresa online de articulos de mascotas
 
 Objetivos comerciales de Whiskique;
